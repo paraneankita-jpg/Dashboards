@@ -16,4 +16,4 @@ The Coffee Sales Dashboard provides clear visibility into product performance, c
 
 Dashboard link-https://github.com/paraneankita-jpg/Dashboards/blob/main/Coffee_sales_dashboard.xlsx
 
-Image link-
+Image link-https://github.com/paraneankita-jpg/Dashboards/blob/main/Image_of%20_Dashboard.png
