@@ -15,5 +15,6 @@ The Coffee Sales Dashboard provides clear visibility into product performance, c
 -Provides a complete view of coffee sales performance from 2019 to 2022 using interactive slicers for date, roast type, and loyalty card. -The Total Sales trend chart shows monthly sales patterns for Arabica, Excelsa, Liberica, and Robusta, helping identify seasonality and demand fluctuations. -Highlights top revenue contributors using a Top 5 Customers bar chart, enabling easy tracking of high-value customers. -The Sales by Country chart compares revenue across the United States, Ireland, and the United Kingdom to identify the strongest and weakest markets. -The Sales by Size pie chart displays customer preferences across different packaging sizes (0.2kg, 0.5kg, 1kg, 2.5kg). -Interactive slicers allow users to filter the entire dashboard instantly, making analysis faster and more flexible. -Helps the business take data-driven decisions in pricing, stock planning, customer segment targeting, and product strategy.
 
 Dashboard link-(Dashboards/Coffee_sales_dashboard.xlsx at main · paraneankita-jpg/Dashboards)
+
 Image link-(Dashboards/Image_of _Dashboard.png at main · paraneankita-jpg/Dashboards)
 
