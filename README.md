@@ -4,7 +4,17 @@
 A clean Excel dashboard that tracks coffee sales trends and highlights top products using PivotTables and slicers. Designed for quick performance analysis and data-driven decisions.
 
 ### Features
--Trend Analysis -Interactive Data Filtering -PivotChart-Based Visualizations -Fully Dynamic Dashboard -Business Insights Ready
+-Trend Analysis 
+
+-Interactive Data Filtering 
+
+-PivotChart
+
+-Based Visualizations 
+
+-Fully Dynamic Dashboard 
+
+-Business Insights Ready
 
 
 ##### Business Insights & Impact
