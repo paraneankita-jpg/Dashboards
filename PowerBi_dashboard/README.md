@@ -43,4 +43,4 @@ https://github.com/paraneankita-jpg/Dashboards/blob/main/Zudio_sales_data.csv
 https://github.com/paraneankita-jpg/Dashboards/blob/main/Image_of_Zudiosales_dashboard.png
 
 ## Dashboard file
-
+https://github.com/paraneankita-jpg/Dashboards/blob/main/Zudio%20sales%20dashboard.pbix
