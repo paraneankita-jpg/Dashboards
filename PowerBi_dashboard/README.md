@@ -40,4 +40,7 @@ This dashboard can help business users:
 https://github.com/paraneankita-jpg/Dashboards/blob/main/Zudio_sales_data.csv
 
 ## Image of Dashboard
+https://github.com/paraneankita-jpg/Dashboards/blob/main/Image_of_Zudiosales_dashboard.png
+
+## Dashboard file
 
