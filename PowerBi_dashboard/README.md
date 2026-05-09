@@ -37,4 +37,7 @@ This dashboard can help business users:
 - Improve reporting speed versus manual spreadsheet analysis
 
 ## Dataset
+https://github.com/paraneankita-jpg/Dashboards/blob/main/Zudio_sales_data.csv
+
+## Image of Dashboard
 
