@@ -136,11 +136,7 @@ to highlight potential business risks.
 
 ### Customer Segmentation Dashboard
 
-_Add dashboard screenshot here_
-
-### Product Performance Dashboard
-
-_Add dashboard screenshot here_
+https://github.com/paraneankita-jpg/Dashboards/blob/main/RFM_dashboard_image.png
 
 ---
 
