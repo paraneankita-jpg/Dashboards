@@ -87,32 +87,6 @@ using SQL window functions and views.
 
 Created customer categories using RFM scoring logic.
 
-### 📌 Product Performance Analysis
-
-Analyzed:
-
-- Total Units Sold
-- Product Revenue
-- Best Performing Products
-
-### 📌 Rating Analysis
-
-Evaluated:
-
-- Average Product Ratings
-- Customer Reviews
-- Product Satisfaction
-
-### 📌 High Risk Product Detection
-
-Identified products with:
-
-- High Sales
-- Poor Ratings
-
-to highlight potential business risks.
-
----
 
 ## 📊 Dashboard Features
 
